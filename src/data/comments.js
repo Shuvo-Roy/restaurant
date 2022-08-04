@@ -129,3 +129,4 @@
             date:"2021-10-16T17:57:28.556094Z"
         },
     ]  
+    export default COMMENTS;
